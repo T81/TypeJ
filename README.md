@@ -1,7 +1,7 @@
 # Type J thermocouples linearization library for Arduino
 
 Provides support for [ITS-90](https://srdata.nist.gov/its90/download/type_b.tab) thermocouple linearization,
-[Type B](https://en.wikipedia.org/wiki/Thermocouple#Type_J) thermocouples.
+[Type J](https://en.wikipedia.org/wiki/Thermocouple#Type_J) thermocouples.
 
 
 ### Includes functions to:
